@@ -1,2 +1,4 @@
-# Originally generated with PreTeXt 2.42.0; pin updated by hand.
-pretext == 2.47.1
+# Originally generated with PreTeXt 2.42.0; pins updated by hand.
+pretext == 2.57.0
+# lxml 6.1 stops loading course-vars.ent, which breaks every build.
+lxml == 6.0.2
