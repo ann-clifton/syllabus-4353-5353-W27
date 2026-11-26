@@ -7,7 +7,6 @@
   <p>
     <ul>
       <li><p>State and use the basic definitions of graph theory, including degree, isomorphism, subgraph, path, cycle, tree, and connectivity.</p></li>
-      <li><p>Model problems from other fields with graphs and use graph-theoretic results to solve them.</p></li>
       <li><p>State and apply the central theorems of a first course, including the characterizations of trees and Eulerian graphs, Menger's Theorem, Hall's Theorem, Euler's Formula, and the Five Color Theorem.</p></li>
       <li><p>Carry out standard algorithms on graphs, such as finding a minimum spanning tree, and explain why they are correct.</p></li>
       <li><p>Read and construct proofs about graphs using direct proof, proof by contradiction, mathematical induction, and extremal arguments.</p></li>

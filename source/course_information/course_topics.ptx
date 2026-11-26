@@ -15,7 +15,10 @@
 
   <assemblage>
     <title>Tentative Outline</title>
-    <tabular halign="left">
+    <tabular halign="left" valign="top">
+      <col/>
+      <col/>
+      <col width="45%"/>
       <row header="yes" bottom="minor">
         <cell>Dates</cell>
         <cell>Sections</cell>
@@ -24,47 +27,47 @@
       <row>
         <cell>December 2 <ndash/> December 16</cell>
         <cell>Chapters 1<ndash/>3</cell>
-        <cell>Graphs, degrees, isomorphism, reconstruction</cell>
+        <cell><p>Graphs, degrees, isomorphism, reconstruction</p></cell>
       </row>
       <row>
         <cell>January 4 <ndash/> January 6</cell>
         <cell>4.1<ndash/>4.3</cell>
-        <cell>Bridges, trees, minimum spanning trees</cell>
+        <cell><p>Bridges, trees, minimum spanning trees</p></cell>
       </row>
       <row>
         <cell>January 11 <ndash/> January 25</cell>
         <cell>5.1<ndash/>5.4</cell>
-        <cell>Cut-vertices, blocks, connectivity, Menger's Theorem, connected partitions</cell>
+        <cell><p>Cut-vertices, blocks, connectivity, Menger's Theorem, connected partitions</p></cell>
       </row>
       <row>
         <cell>January 27</cell>
         <cell></cell>
-        <cell>Midterm Exam</cell>
+        <cell><p>Midterm Exam</p></cell>
       </row>
       <row>
         <cell>February 1 <ndash/> February 3</cell>
         <cell>6.1<ndash/>6.2</cell>
-        <cell>Eulerian and Hamiltonian graphs</cell>
+        <cell><p>Eulerian and Hamiltonian graphs</p></cell>
       </row>
       <row>
         <cell>February 15</cell>
         <cell>8.1</cell>
-        <cell>Matchings</cell>
+        <cell><p>Matchings</p></cell>
       </row>
       <row>
         <cell>February 17 <ndash/> February 22</cell>
         <cell>9.1, 10.1<ndash/>10.2</cell>
-        <cell>Planar graphs, vertex coloring</cell>
+        <cell><p>Planar graphs, vertex coloring</p></cell>
       </row>
       <row>
         <cell>February 24</cell>
         <cell>13.1</cell>
-        <cell>Domination, review</cell>
+        <cell><p>Domination, review</p></cell>
       </row>
       <row>
         <cell>March 1</cell>
         <cell></cell>
-        <cell>Final Exam</cell>
+        <cell><p>Final Exam</p></cell>
       </row>
     </tabular>
   </assemblage>
