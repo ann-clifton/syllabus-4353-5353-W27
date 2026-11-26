@@ -5,9 +5,9 @@
 <!-- The two publication files differ only in their version flags.          -->
 <project ptx-version="2">
   <targets>
-    <target name="web-4353" format="html" publication="publication-4353.ptx" output-dir="web-4353"/>
-    <target name="print-4353" format="pdf" publication="publication-4353.ptx" output-dir="print-4353" output-filename="MATH-4353-001_CLIFTON_W2027.pdf"/>
-    <target name="web-5353" format="html" publication="publication-5353.ptx" output-dir="web-5353"/>
-    <target name="print-5353" format="pdf" publication="publication-5353.ptx" output-dir="print-5353" output-filename="MATH-5353-001_CLIFTON_W2027.pdf"/>
+    <target name="web-4353" format="html" publication="publication-4353.ptx" output-dir="web-4353" deploy-dir="4353"/>
+    <target name="print-4353" format="pdf" publication="publication-4353.ptx" output-dir="print-4353" output-filename="MATH-4353-001_CLIFTON_W2027.pdf" deploy-dir="pdf-4353"/>
+    <target name="web-5353" format="html" publication="publication-5353.ptx" output-dir="web-5353" deploy-dir="5353"/>
+    <target name="print-5353" format="pdf" publication="publication-5353.ptx" output-dir="print-5353" output-filename="MATH-5353-001_CLIFTON_W2027.pdf" deploy-dir="pdf-5353"/>
   </targets>
 </project>
