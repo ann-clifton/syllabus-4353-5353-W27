@@ -9,9 +9,4 @@
     This course is an introduction to graph theory, the study of networks of points joined by lines.
     Students learn the fundamental concepts of the subject <mdash/> degrees, isomorphism, trees, connectivity, traversability, matchings, planarity, coloring, and domination <mdash/> and learn to prove theorems about the structure of graphs.
   </p>
-  <p>
-    One question runs through the quarter: when can a graph be divided into connected pieces of prescribed sizes?
-    Trees and connectivity are developed with this question in view, and the course reaches a complete answer for dividing a graph into two pieces.
-    The remaining topics are chosen to show the range of the subject and its applications.
-  </p>
 </subsection>
