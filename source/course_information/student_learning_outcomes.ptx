@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<subsection xml:id="student_learning_outcomes" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Student Learning Outcomes</title>
+  <p>
+    Upon successful completion of this course, students will be able to:
+  </p>
+  <p>
+    <ul>
+      <li><p>State and use the basic definitions of graph theory, including degree, isomorphism, subgraph, path, cycle, tree, and connectivity.</p></li>
+      <li><p>Model problems from other fields with graphs and use graph-theoretic results to solve them.</p></li>
+      <li><p>State and apply the central theorems of a first course, including the characterizations of trees and Eulerian graphs, Menger's Theorem, Hall's Theorem, Euler's Formula, and the Five Color Theorem.</p></li>
+      <li><p>Carry out standard algorithms on graphs, such as finding a minimum spanning tree, and explain why they are correct.</p></li>
+      <li><p>Read and construct proofs about graphs using direct proof, proof by contradiction, mathematical induction, and extremal arguments.</p></li>
+      <li><p>Communicate mathematical arguments clearly, precisely, and rigorously in written form.</p></li>
+      <li component="graduate"><p>Learn a topic in graph theory independently from a written source and present it to an audience of peers, both in writing and orally.</p></li>
+    </ul>
+  </p>
+</subsection>

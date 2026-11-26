@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article [
+<!ENTITY % coursevars SYSTEM "../course-vars.ent">
+%coursevars;
+]>
+<subsection xml:id="exams" component="exams">
+  <title>Exams</title>
+  <p>
+    There will be one in-class midterm exam and a cumulative final exam.
+    The exams are scheduled as follows:
+  </p>
+
+  <p component="graduate">
+    Each exam will include additional problems required only of graduate students.
+    These problems ask for longer or less routine proofs than the problems common to both courses.
+  </p>
+
+  <assemblage>
+    <tabular halign="center">
+      <row header="yes" bottom="minor" >
+	<cell>Exam</cell>
+	<cell>Date</cell>
+      </row>
+      <row>
+	<cell>Midterm Exam</cell>
+	<cell>&midterm;</cell>
+      </row>
+      <row>
+	<cell>Final Exam</cell>
+	<cell>&finalexam;</cell>
+      </row>
+    </tabular>
+  </assemblage>
+
+  <warning>
+    <p>
+      <ul>
+	<li>
+	  <p>The instructor reserves the right to modify the schedule of in class exams.</p>
+	</li>
+	<li>
+	  <p>
+	    The final exam date and time are scheduled in advance.
+	    Failure to appear at the final exam will result in a grade of zero for the exam.
+	  </p>
+	</li>
+      </ul>
+    </p>
+  </warning>
+</subsection>

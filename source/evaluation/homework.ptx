@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<subsection xml:id="homework" component="homework">
+  <title>Homework</title>
+  <p>
+    Homework assignments are a critical component of the course.
+    They are designed to reinforce the concepts covered in lectures and provide hands-on experience.
+    Assignments will include a mix of proofs, computations on specific graphs, and conceptual exercises.
+    Solutions must be submitted on time and will be graded for clarity and correctness.
+    Collaboration is encouraged, but each student must submit their own work.
+    You may use each other, the textbook(s), and me but you should avoid the use of outside resources (other faculty, the internet, artificial intelligence, etc.).
+  </p>
+
+  <p component="graduate">
+    In addition to the core problems assigned to all students, each homework set will include advanced exercises required only of graduate students.
+    These exercises require a deeper understanding of the material and the ability to explore alternative approaches.
+  </p>
+</subsection>

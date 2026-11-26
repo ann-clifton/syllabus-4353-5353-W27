@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article [
+  <!ENTITY % coursevars SYSTEM "../course-vars.ent">
+  %coursevars;
+]>
+<subsection xml:id="course_topics" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Course Topics</title>
+  <p>
+    Graphs and graph models, degrees, isomorphism, trees, connectivity and Menger's Theorem, connected partitions of graphs, Eulerian and Hamiltonian graphs, matchings, planarity, vertex coloring, and domination.
+  </p>
+  <p>
+    The class meets on Mondays and Wednesdays.
+    The table below gives the planned order of topics; section numbers refer to <pubtitle>&book;</pubtitle>.
+  </p>
+
+  <assemblage>
+    <title>Tentative Outline</title>
+    <tabular halign="left">
+      <row header="yes" bottom="minor">
+        <cell>Dates</cell>
+        <cell>Sections</cell>
+        <cell>Topics</cell>
+      </row>
+      <row>
+        <cell>December 2 <ndash/> December 16</cell>
+        <cell>Chapters 1<ndash/>3</cell>
+        <cell>Graphs, degrees, isomorphism, reconstruction</cell>
+      </row>
+      <row>
+        <cell>January 4 <ndash/> January 6</cell>
+        <cell>4.1<ndash/>4.3</cell>
+        <cell>Bridges, trees, minimum spanning trees</cell>
+      </row>
+      <row>
+        <cell>January 11 <ndash/> January 25</cell>
+        <cell>5.1<ndash/>5.4</cell>
+        <cell>Cut-vertices, blocks, connectivity, Menger's Theorem, connected partitions</cell>
+      </row>
+      <row>
+        <cell>January 27</cell>
+        <cell></cell>
+        <cell>Midterm Exam</cell>
+      </row>
+      <row>
+        <cell>February 1 <ndash/> February 3</cell>
+        <cell>6.1<ndash/>6.2</cell>
+        <cell>Eulerian and Hamiltonian graphs</cell>
+      </row>
+      <row>
+        <cell>February 15</cell>
+        <cell>8.1</cell>
+        <cell>Matchings</cell>
+      </row>
+      <row>
+        <cell>February 17 <ndash/> February 22</cell>
+        <cell>9.1, 10.1<ndash/>10.2</cell>
+        <cell>Planar graphs, vertex coloring</cell>
+      </row>
+      <row>
+        <cell>February 24</cell>
+        <cell>13.1</cell>
+        <cell>Domination, review</cell>
+      </row>
+      <row>
+        <cell>March 1</cell>
+        <cell></cell>
+        <cell>Final Exam</cell>
+      </row>
+    </tabular>
+  </assemblage>
+
+  <p>
+    There is no class on January 18 (Martin Luther King, Jr. Day) or on February 8 and February 10 (Mardi Gras).
+  </p>
+
+  <warning>
+    <p>
+      The instructor reserves the right to modify the outline as needed.
+    </p>
+  </warning>
+</subsection>

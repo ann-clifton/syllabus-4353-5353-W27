@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<subsection xml:id="office_hours">
+  <title>Office Hours</title>
+  <p>
+    <dl>
+      <li>
+	<title>Tuesday</title>
+	<p>11:30 <init>am</init> <ndash/> 1:00 <init>pm</init></p>
+      </li>
+      <li>
+	<title>Thursday</title>
+	<p>10:00 <init>am</init> <ndash/> 11:30 <init>am</init></p>
+      </li>
+    </dl>
+  </p>
+</subsection>

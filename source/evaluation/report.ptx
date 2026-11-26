@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article [
+<!ENTITY % coursevars SYSTEM "../course-vars.ent">
+%coursevars;
+]>
+<subsection xml:id="report" component="graduate">
+  <title>Excursion Report and Presentation</title>
+  <p>
+    Several sections of <pubtitle>&book;</pubtitle> are labeled <q>Excursion.</q>
+    Each excursion introduces a topic that lies beyond the core material of the course.
+  </p>
+  <p>
+    Each graduate student will choose one excursion, study it independently, and
+    <ul>
+      <li>
+        <p>submit a written report on it, and</p>
+      </li>
+      <li>
+        <p>give a 10-minute presentation on it to the class.</p>
+      </li>
+    </ul>
+  </p>
+  <p>
+    Each student must choose a different excursion, and the choice must be approved by the instructor.
+    The report must be typed and written in your own words; it should state the main definitions and results of the excursion, work through at least one example, and explain at least one proof.
+    Due dates for the choice of topic, the report, and the presentation will be announced in class.
+  </p>
+</subsection>

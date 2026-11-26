@@ -1,0 +1,22 @@
+<!ENTITY ugcourseno "4353">
+<!ENTITY gradcourseno "5353">
+<!ENTITY coursetitle "Graph Theory">
+<!ENTITY sectionno "001">
+<!ENTITY term "Winter">
+<!ENTITY year "2026<ndash/>2027">
+<!ENTITY withdraw "Friday, February 5, 2027">
+<!ENTITY honorific "<abbr>Dr.</abbr>">
+<!ENTITY firstname "Ann">
+<!ENTITY lastname "Clifton">
+<!ENTITY department "Mathematics and Statistics">
+<!ENTITY institution "Louisiana Tech University">
+<!ENTITY phone "318.257.2164">
+<!ENTITY email "aclifton@latech.edu">
+<!ENTITY website "https://www.annclifton.phd">
+<!ENTITY office "Nethken 221">
+<!ENTITY book "A First Course in Graph Theory">
+<!ENTITY author "Gary Chartrand and Ping Zhang">
+<!ENTITY edition "Dover (2012)">
+<!ENTITY ISBN "978-0-486-48368-9">
+<!ENTITY midterm "Wednesday, January 27, 2027">
+<!ENTITY finalexam "Monday, March 1, 2027">
